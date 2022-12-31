@@ -1,7 +1,7 @@
 ﻿<h1 color = "white" align = "center"> Thiago Vieira Dev ✌🏼</h1>
 <h3 color = "white" align = "center">Computer engineering student 👨🏼‍💻 and passionate about technology 💙</h2><br><br>
 <p># Sobre: 📕</p>
-<p>Me chamo Thiago, tenho 22 anos e atualmente trabalho como <b>desenvolvedor</b> na GFT Group.<br></p>
+<p>Me chamo Thiago, tenho 24 anos e atualmente trabalho como <b>desenvolvedor</b> na GFT Group.<br></p>
 <p></p>
 
 
